@@ -1,0 +1,28 @@
+.cattitle{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-top: 5vh;
+    margin-bottom: 3vh;
+    margin-left: 3vw; 
+    margin-right: 3vw;
+}
+.catbuttons{
+    display: flex;
+    gap: 3vw;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 3vh;
+}
+.catbut{
+    background-color: rgb(1, 1, 87);
+    color: #fff;
+    border: 1.5px solid white;
+    border-radius: 10px;
+    padding: 10px 25px;
+}
+hr{
+    background-color: rgb(88, 103, 244);
+    height: 1.1px;
+    border: none;
+}
